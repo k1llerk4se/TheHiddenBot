@@ -1,4 +1,4 @@
-package me.k1llerk4se.libs;
+/*package me.k1llerk4se.libs;
 
 import me.k1llerk4se.TheHiddenBot;
 import me.k1llerk4se.command.CommandBase;
@@ -11,7 +11,7 @@ import java.util.HashMap;
  * Created by mikel on 12/5/2014.
  */
 
-public abstract class SQLiteListener extends CommandBase {
+/*public abstract class SQLiteListener extends CommandBase {
 public Connection c = null;
 public SQLiteListener(){
 	setupDB();
@@ -77,4 +77,4 @@ public void closeConnection(){
 public static String getCurrentTimeStamp() {
 	return new SimpleDateFormat("yyyy-MM-dd HH:mm:ss").format(new Date());
 }
-}
+}*/
